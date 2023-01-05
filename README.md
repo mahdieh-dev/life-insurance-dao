@@ -1,6 +1,6 @@
 # Life Insurance DAO
 
-![LifeInsuranceDAO dashboard](http://url/to/img.png)
+![LifeInsuranceDAO dashboard](https://github.com/mahdieh-dev/life-insurance-dao/blob/main/src/assets/dashboard.png)
 
 This DAO is inspired by the [Buildspace community](https://buildspace.so) DAO course and contains the full scripts for creating `ERC1155 contract`, `ERC20 contract` and a `Governance contract` (which is needed to let the members of the DAO vote for the proposals).
 The contracts of this project are created using the Thirdweb SDK.
