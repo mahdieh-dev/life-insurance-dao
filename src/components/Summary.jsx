@@ -34,18 +34,18 @@ export default function Summary({ hasClaimedNFT, address }) {
   }, [token]);
 
   useEffect(() => {
-    if (!hasClaimedNFT) {
+    if (!hasClaimedNFT || !!!editionDrop) {
       return;
     }
     getAllMemberAddresses();
-  }, [hasClaimedNFT]);
+  }, [hasClaimedNFT, editionDrop]);
 
   useEffect(() => {
-    if (!hasClaimedNFT) {
+    if (!hasClaimedNFT || !!!token) {
       return;
     }
     getTokenHolders();
-  }, [hasClaimedNFT]);
+  }, [hasClaimedNFT, token]);
 
   const memberList = useMemo(() => {
     return membersAddresses.map((address) => {
