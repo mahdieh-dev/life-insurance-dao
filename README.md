@@ -13,3 +13,7 @@ To get started with this project, you need to setup a `.env` file with the follo
 - `CONTRACT_ADDRESS`: The address of the ERC1155 contract after deployment
 - `LINS_TOKEN_CONTRACT_ADDRESS`: The address of your ERC20 contract (You can change the name with you own token symbol, make sure to change it on every file it is used)
 - `VOTING_CONTRACT_ADDRESS`: The address of the governance contract
+
+
+Here is a screenshot of the Proposals tab, where members can vote:
+![LifeInsuranceDAO Proposals tab image](https://github.com/mahdieh-dev/life-insurance-dao/blob/main/src/assets/proposals.png)
