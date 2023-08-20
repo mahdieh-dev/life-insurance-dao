@@ -3,6 +3,7 @@
 ![LifeInsuranceDAO dashboard](https://github.com/mahdieh-dev/life-insurance-dao/blob/main/src/assets/dashboard.png)
 
 Life Insurance DAO is a DAO on the Ethereum blockchain and is created to make insurance more trustable, easier, and decentralized.
+
 This repository contains the full scripts for creating an `ERC1155 contract`, `ERC20 contract`, and a `Governance contract` (which is needed to let the members of the DAO vote for the proposals).
 
 ## Built With
