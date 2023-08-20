@@ -14,7 +14,7 @@ This repository contains the full scripts for creating an `ERC1155 contract`, `E
 
 ## Live Demo
 
-Click ![here](life-insurance-dao.vercel.app) to view the live demo.
+Click [here](life-insurance-dao.vercel.app) to view the live demo.
 
 ## Getting Started
 
