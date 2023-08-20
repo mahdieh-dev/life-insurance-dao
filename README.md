@@ -12,6 +12,10 @@ This repository contains the full scripts for creating an `ERC1155 contract`, `E
 - Web3.js
 - Ethers
 
+## Live Demo
+
+Click ![here](life-insurance-dao.vercel.app) to view the live demo.
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
